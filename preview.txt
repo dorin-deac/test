@@ -1,2 +1,3 @@
 The first line of specification -  craziness
 The second line of specification - real craziness
+The third line of specification - just a plain sane man

@@ -1,1 +1,2 @@
 The first line of specification -  craziness
+The second line of specification - real craziness
